@@ -1,10 +1,21 @@
 # PAF Prediction Challenge Reproducibility
 
+## Package
+
+```
+- data
+- src
+```
+
 ## Data
 
 PAF Prediction Challenge Database is available on the Physionet website (1).
 
 Labels are available on the results page (2).
+
+## Licence
+
+
 
 ## References
 
